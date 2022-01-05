@@ -1,2 +1,2 @@
 # Deep-Q-learning-for-Atari
-Deep Q-learning implementation
+Deep Q-learning implementation in Tensorflow
